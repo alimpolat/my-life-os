@@ -6,6 +6,11 @@
 !package.json
 !tsconfig.json
 
+# Personal medical PDFs (NEVER commit — contain personnummer + medical data)
+*.pdf
+Kallelse*
+Provsvar*
+
 # OS files
 .DS_Store
 Thumbs.db
