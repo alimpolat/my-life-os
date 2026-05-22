@@ -5,6 +5,10 @@
 *.json
 !package.json
 !tsconfig.json
+!graphify-out/**/*.json
+
+# Graphify machine-specific interpreter path (do not commit)
+graphify-out/.graphify_python
 
 # Personal medical PDFs (NEVER commit — contain personnummer + medical data)
 *.pdf
