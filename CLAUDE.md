@@ -1,6 +1,6 @@
 # My Life OS — Personal Life Operating System
 
-> Formerly "Make My Life Structured." Renamed 2026-06-28 to reflect a wider scope: this is now the home for **anything in Alim's life** — health, family, finances, household, admin, faith, scheduling, and personal projects — not just coaching. The folder path on disk is unchanged, so all memory, skills, and agents carry over intact.
+> Formerly "Make My Life Structured." Renamed 2026-06-28 to reflect a wider scope: this is now the home for **anything in Alim's life** — health, family, finances, household, admin, faith, scheduling, and personal projects — not just coaching. The on-disk folder is now `My_Life_OS` and the GitHub repo is `alimpolat/my-life-os`; the Claude memory storage slug is unchanged, so all memory, skills, and agents carry over intact.
 
 ## Project Purpose
 A personal life operating system for a 45-year-old AI engineer, father of three, working two jobs (Handelsbanken + ICON freelance), with a wife who works full-time as an engineer. It exists to bring **structure, health, energy, and rhythm** into life — and to act as a single trusted place to think through, track, and act on *anything* that comes up: medical letters and lab results, school and kommun admin, money, the household, faith and family rhythms, and whatever else life throws up. Life coaching (the agents below) is one part of it, not the whole.

@@ -704,6 +704,6 @@ Now go scan those bank statements.
 
 ---
 
-*This plan was created by Advisor Ray as part of the Make My Life Structured coaching system.*
+*This plan was created by Advisor Ray as part of the My Life OS coaching system.*
 *Review and update monthly. Adjust numbers as your situation changes.*
 *Remember: Progress over perfection. A 70% month is better than a 0% month.*
