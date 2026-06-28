@@ -15,6 +15,11 @@ graphify-out/.graphify_python
 Kallelse*
 Provsvar*
 
+# Personal medical images + generated HTML reports (NEVER commit — private health data)
+*.jpeg
+*.jpg
+html-output/
+
 # OS files
 .DS_Store
 Thumbs.db
